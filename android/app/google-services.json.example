@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462899202913",
+    "project_id": "base-d-gudohn",
+    "storage_bucket": "base-d-gudohn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462899202913:android:05c7c965c6e3c8859e9320",
+        "android_client_info": {
+          "package_name": "com.mycompany.based"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSy_REPLACE_WITH_YOUR_ACTUAL_KEY_HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
