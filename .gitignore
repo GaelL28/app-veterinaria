@@ -74,3 +74,6 @@ coverage/
 # Firebase configuration files (containing secrets/API keys)
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
+
+# Project documentation
+DOCUMENTACION.md
